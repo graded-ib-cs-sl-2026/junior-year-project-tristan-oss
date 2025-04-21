@@ -2,7 +2,7 @@ public class Flashcard {
     private String word; 
     private String definition; 
 
-public Flashcard(String word, String definiton) { 
+public Flashcard(String word, String definition) { 
     this.word = word; 
     this.definition = definition;
 }
