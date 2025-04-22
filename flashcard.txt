@@ -2,3 +2,7 @@ Tristan
 me 
 math 
 subject 
+Apple 
+company 
+Computer 
+product 
