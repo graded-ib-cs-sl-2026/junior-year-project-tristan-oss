@@ -1,0 +1,14 @@
+Object
+instance of a class 
+Array
+A collection of items stored in a list, where each item can be accessed using an index.
+Class 
+blue print for creating an object 
+Parameter 
+A value that is passed into a function or method when it is called
+RAM 
+Random Access Memory 
+Network
+A system of interconnected computers or devices that can share data and resources.
+Constructor
+A constructor in Java is a special method that initializes a newly created object of a class. (Has the same name as the class)
